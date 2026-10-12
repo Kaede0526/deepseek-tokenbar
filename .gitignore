@@ -1,0 +1,15 @@
+# 构建产物
+.build/
+dist/
+assets/*.icns
+
+# 运行时数据（含个人用量与余额，绝对不要提交）
+.data/
+
+# 杂项
+*.log
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
